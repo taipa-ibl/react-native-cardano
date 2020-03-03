@@ -7,7 +7,7 @@
 //
 
 #import "RNCPasswordProtect.h"
-#import <rust_native_cardano.h>
+#import "rust_native_cardano.h"
 #import "RNCConvert.h"
 #import "RNCSafeOperation.h"
 

@@ -8,7 +8,7 @@
 
 #import "RNCHdWallet.h"
 #import "RNCConvert.h"
-#import <rust_native_cardano.h>
+#import "rust_native_cardano.h"
 #import "RNCSafeOperation.h"
 
 @implementation RNCHdWallet

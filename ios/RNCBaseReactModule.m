@@ -7,7 +7,7 @@
 //
 
 #import "RNCBaseReactModule.h"
-#import <rust_native_cardano.h>
+#import "rust_native_cardano.h"
 
 
 @implementation RNCBaseReactModule
